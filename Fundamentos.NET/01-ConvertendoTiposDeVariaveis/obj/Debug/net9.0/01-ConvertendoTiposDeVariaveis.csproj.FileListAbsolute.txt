@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\bin\Debug\net9.0\01-ConvertendoTiposDeVariaveis.exe
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\bin\Debug\net9.0\01-ConvertendoTiposDeVariaveis.deps.json
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\bin\Debug\net9.0\01-ConvertendoTiposDeVariaveis.runtimeconfig.json
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\bin\Debug\net9.0\01-ConvertendoTiposDeVariaveis.dll
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\bin\Debug\net9.0\01-ConvertendoTiposDeVariaveis.pdb
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\obj\Debug\net9.0\01-ConvertendoTiposDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\obj\Debug\net9.0\01-ConvertendoTiposDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\obj\Debug\net9.0\01-ConvertendoTiposDeVariaveis.AssemblyInfo.cs
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\obj\Debug\net9.0\01-ConvertendoTiposDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\obj\Debug\net9.0\01-ConvertendoTiposDeVariaveis.dll
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\obj\Debug\net9.0\refint\01-ConvertendoTiposDeVariaveis.dll
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\obj\Debug\net9.0\01-ConvertendoTiposDeVariaveis.pdb
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\obj\Debug\net9.0\01-ConvertendoTiposDeVariaveis.genruntimeconfig.cache
+C:\Users\pc\Documents\DIO\C-sharp\Fundamentos.NET\01-ConvertendoTiposDeVariaveis\obj\Debug\net9.0\ref\01-ConvertendoTiposDeVariaveis.dll
