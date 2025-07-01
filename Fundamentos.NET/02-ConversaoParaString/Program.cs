@@ -8,7 +8,7 @@ string a = Convert.ToString("5");
 Console.WriteLine(a);
 
 //quando queremos converter algum tipo para string devemos utilizar o ToString();
-// não podemos utilizar nenhum outro metodo, pois não existem alem do ToString();
+// não podemos utilizar nenhum outro método, pois não existem alem do ToString();
 
 
 Console.ReadKey();

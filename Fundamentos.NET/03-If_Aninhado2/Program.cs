@@ -19,3 +19,5 @@ else if (possivelCompra)
 {
     Console.WriteLine("Compra invalida");
 }
+
+Console.ReadLine();
