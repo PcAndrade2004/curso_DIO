@@ -16,6 +16,8 @@ if (ehmaiorDeIdade || possuiAutorizacao)
 Console.WriteLine("-------------------------------");
 
 Console.WriteLine("\n## Operador AND && ##\n");
+// neste caso, as duas condições devem ser verdadeiras para que o resultado seja verdadeiro.
+//caso apenas uma seja verdadeira, o programa já direciona para o else que exibe a mensagem de que o aluno foi reprovado.
 
 Console.WriteLine("Digite a pressaça do aluno: ");
 int presenca = int.Parse(Console.ReadLine());
@@ -32,6 +34,21 @@ if (presenca > presencaMinima && media >= 7)
     Console.WriteLine("Aluno reprovado");
 }   
 
+Console.WriteLine("-------------------------------");
+
+Console.WriteLine("\n## Operador Ternário ##\n");
+
+bool choveu = true;
+bool estaTarde = false;
+
+if (!choveu && !estaTarde)
+{
+    Console.WriteLine("vou pedalar");
+}
+else
+{
+    Console.WriteLine("não vou pedalar");   
+}
 
 
 Console.ReadLine();
