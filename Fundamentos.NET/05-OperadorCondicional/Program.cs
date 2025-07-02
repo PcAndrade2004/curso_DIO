@@ -50,5 +50,4 @@ else
     Console.WriteLine("não vou pedalar");   
 }
 
-
 Console.ReadLine();
